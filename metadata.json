@@ -1,0 +1,5 @@
+{
+  "name": "Wiederlade-Rechner",
+  "description": "Ein umfassender Rechner für das Wiederladen von Munition, inklusive Kostenkalkulation und Einheitenumrechnung.",
+  "requestFramePermissions": ["camera"]
+}
